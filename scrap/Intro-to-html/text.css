@@ -1,0 +1,29 @@
+p{
+  font-family: arial;
+  margin-top:0;
+  margin-bottom:0;
+}
+.srk{
+font-weight: bold;
+font-size: 18px;
+width:300px;
+line-height:26px;
+text-decoration: underline;
+}
+.view{
+font-size:14px;
+}
+.details{
+font-size:14px;
+margin-bottom:50px;
+background-color:red;
+color:white;
+text-align: center;
+padding: 18px;
+padding-top: 18px;
+text-decoration: underline;
+}
+.span-class{
+
+color:red
+}
